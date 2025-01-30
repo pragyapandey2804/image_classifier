@@ -24,8 +24,5 @@ pip install scikit-image scikit-learn numpy
 ```
 
 
-    ├── image1.jpg
-    ├── image2.jpg
-    └── ...
 
 
